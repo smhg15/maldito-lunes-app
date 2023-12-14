@@ -6,4 +6,5 @@ auth.py
 player.py
 team.py
 user.py
+test.py
 static/
